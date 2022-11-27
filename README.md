@@ -3,7 +3,7 @@
 </div>
 
 <h1 id="header" align="center">
-  hey there
+  Hey there! My name is Nigora
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
