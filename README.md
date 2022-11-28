@@ -14,7 +14,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Junior Data Analyast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - 🔭 I’m currently studyng at Yandex Practicum 
 - 🌱 Exploring Data analytics
