@@ -14,9 +14,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🌱 Exploring Data analytics
+- 🌱 Exploring Data 
 - 👯 Already finished Karpov Courses and Yandex Practicum 
 - 📫 How to reach me: yarullinanigora@gmail.com
 
